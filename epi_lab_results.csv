@@ -1,5 +1,5 @@
 Rnd student number,Gender,Cond,E,N,L
-1,Female,A,23,0,6
+1,Female,A,13,0,6
 2,Female,A,8,17,2
 3,Female,A,11,20,3
 4,Male,A,3,13,3
@@ -40,7 +40,7 @@ Rnd student number,Gender,Cond,E,N,L
 39,Female,B,21,1,9
 40,Male,B,24,0,5
 41,Male,B,22,1,6
-42,Female,B,17,2,4
+42,Female,B,19,2,4
 43,Female,B,23,7,7
 44,Female,B,19,0,8
 45,Female,B,18,0,7
@@ -55,5 +55,5 @@ Rnd student number,Gender,Cond,E,N,L
 54,Female,C,19,1,4
 55,Female,C,21,1,4
 56,Female,C,22,3,5
-57,Male,C,16,6,9
+57,Male,C,19,6,9
 58,Male,C,24,0,2
