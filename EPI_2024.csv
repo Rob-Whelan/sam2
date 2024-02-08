@@ -1,4 +1,4 @@
-RndStudent,Gender,Group,Extraversion,Neuroticism,Lie
+RndStudent,Gender,Group_mem,Extraversion,Neuroticism,Lie
 1,M,A,8,10,2
 2,F,A,13,10,1
 3,F ,A,1,17,4
