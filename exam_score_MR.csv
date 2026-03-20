@@ -1,6 +1,6 @@
 ﻿exam_score,hours_studied,attendance_rate,previous_gpa,school_type
 76,4,0.75,2.9,private
-78,5,0.8,3,public
+78,5,0.8,3,private
 84,6,0.88,3.3,private
 85,7,0.9,3.2,public
 87,7,0.91,3.4,private
@@ -10,14 +10,14 @@
 92,9,0.95,3.8,private
 95,10,0.98,3.9,public
 75,5,0.74,2.8,private
-77,5.5,0.77,3,public
+77,5.5,0.77,2.8,public
 79,6,0.78,3,private
 81,6.5,0.83,3.2,public
 83,7,0.76,3.3,private
 85,7.5,0.89,3.5,public
 87,8,0.82,3.4,private
-89,8.5,0.85,3,public
-91,9,0.88,3.1,private
+89,8.5,0.85,3.1,public
+91,9,0.88,3.4,private
 93,9.5,0.91,3.6,public
-95,10,0.85,3.9,private
+95,10,0.85,3.9,public
 97,10.5,0.99,3.7,public
