@@ -1,4 +1,4 @@
-﻿exam_score,hours_studied,attendance_rate,previous_gpa
+﻿exam_score,hours_studied,attendance_rate,previous_gpa,school_type
 76,4,0.75,2.9,private
 78,5,0.8,3,public
 84,6,0.88,3.3,private
