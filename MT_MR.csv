@@ -6,7 +6,7 @@
 8,57,student,14
 7,59,student,10
 5,37,student,7
-9,53,student,10
+3,53,student,10
 7,43,student,8
 6,72,student,12
 6,58,student,9
@@ -28,8 +28,8 @@
 6,70,student,13
 6,65,student,11
 6,41,student,7
-7,44,student,8
-9,52,not_student,14
+7,24,student,8
+12,52,not_student,14
 7,64,not_student,12
 5,52,not_student,9
 10,86,not_student,17
@@ -48,7 +48,7 @@
 7,40,not_student,11
 10,42,not_student,7
 2,42,not_student,3
-5,57,not_student,7
+10,57,not_student,7
 6,45,not_student,8
 4,48,not_student,3
 7,55,not_student,10
@@ -57,5 +57,5 @@
 5,29,not_student,11
 10,44,not_student,7
 7,19,not_student,7
-3,32,not_student,6
-9,29,not_student,4
+3,72,not_student,6
+9,69,not_student,4
