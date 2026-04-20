@@ -1,5 +1,5 @@
 ﻿Practice,Week_stress,Occup,Tension_scale
-2,21,student,3
+2,35,student,3
 3,24,student,4
 6,53,student,9
 7,48,student,8
@@ -18,7 +18,7 @@
 3,33,student,5
 4,46,student,7
 5,49,student,7
-6,58,student,10
+6,28,student,10
 4,40,student,7
 7,62,student,11
 4,34,student,6
@@ -29,7 +29,7 @@
 6,65,student,11
 6,41,student,7
 7,44,student,8
-9,72,not_student,14
+9,52,not_student,14
 7,64,not_student,12
 5,52,not_student,9
 10,86,not_student,17
@@ -47,10 +47,10 @@
 10,43,not_student,8
 7,70,not_student,11
 10,42,not_student,7
-2,22,not_student,3
+2,42,not_student,3
 5,37,not_student,7
 6,45,not_student,8
-4,18,not_student,3
+4,48,not_student,3
 7,55,not_student,10
 5,44,not_student,6
 5,59,not_student,9
